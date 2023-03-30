@@ -1,4 +1,4 @@
-package com.generation.blogpessoaltest.security;
+package com.generation.blogpessoal.security;
 
 import java.util.Collection;
 import java.util.List;
@@ -6,7 +6,7 @@ import java.util.List;
 import org.springframework.security.core.GrantedAuthority;
 import org.springframework.security.core.userdetails.UserDetails;
 
-import com.generation.blogpessoaltest.model.Usuario;
+import com.generation.blogpessoal.model.Usuario;
 
 public class UserDetailsImpl implements UserDetails{
 	

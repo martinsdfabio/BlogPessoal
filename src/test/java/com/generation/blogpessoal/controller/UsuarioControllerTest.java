@@ -1,8 +1,9 @@
-package com.generation.blogpessoaltest.controller;
+package com.generation.blogpessoal.controller;
 
-import com.generation.blogpessoaltest.model.Usuario;
-import com.generation.blogpessoaltest.repository.UsuarioRepository;
-import com.generation.blogpessoaltest.service.UsuarioService;
+import com.generation.blogpessoal.model.Usuario;
+import com.generation.blogpessoal.repository.UsuarioRepository;
+import com.generation.blogpessoal.service.UsuarioService;
+
 import org.junit.jupiter.api.*;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.boot.test.context.SpringBootTest;

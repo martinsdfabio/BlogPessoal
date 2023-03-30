@@ -1,4 +1,4 @@
-package com.generation.blogpessoaltest.security;
+package com.generation.blogpessoal.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
